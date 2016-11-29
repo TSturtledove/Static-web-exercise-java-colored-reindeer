@@ -9,4 +9,7 @@ for(t=0; t<reindeer.length; t++) {
   console.log(hohohoElement)
 }
 
+hohohoElement
 console.log(hohohoElement)
+
+document.getElementById("coloredReindeer").innerHTML = hohohoElement;
